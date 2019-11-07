@@ -1,3 +1,5 @@
+(This is a temporary place to store this exercise until [this PR](https://github.com/makersacademy/skills-workshops/pull/58) is merged.)
+
 # Debugging Practice
 
 ## Learning Objectives 
