@@ -53,4 +53,4 @@ $ require './fizzbuzz'
 
 Follow the process you developed in the previous exercise in order to eliminate the bugs in this programme.  
 
-Remember - you'r job is **not** to fix the code, but rather to **uncover** why the code is not working. Fixing the problems will be a happy side effect.
+Remember - your job is **not** to fix the code, but rather to **uncover** why the code is not working. Fixing the problems will be a happy side effect.
